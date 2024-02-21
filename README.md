@@ -18,4 +18,4 @@ Every flower has a meaning and our website will help you to choose flowers with 
 From classic blooms to exotic varieties, diversifying our offerings ensures every visitor finds their perfect petal. 
 
 
-![Alt text](media/screenshot/picture1.jpg)
+![Alt text](media/screenshot/Picture1.jpg)
